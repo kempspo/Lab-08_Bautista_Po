@@ -1,0 +1,8 @@
+I do not understand how semaphores work.
+I do not like semaphores.
+Semaphores are hassle.
+Shared memory is a pain.
+Why IPC?
+I hate semaphores.
+I hate shared memory.
+This is so confusing.
